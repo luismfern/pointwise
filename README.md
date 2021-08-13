@@ -1,2 +1,2 @@
 # pointwise
-Repository for Pointwise Glyph scripts
+Repository for Pointwise Glyph scripts test
